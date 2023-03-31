@@ -1,6 +1,6 @@
 Name:		texlive-octavo
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Typeset books following classical design and layout
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/octavo
