@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Typeset books following classical design and layout
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/octavo
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/octavo
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/octavo.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/octavo.doc.r%{version}.tar.xz
